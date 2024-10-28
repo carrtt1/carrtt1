@@ -36,8 +36,21 @@
     <br>
     <br>
     <br>
+  </div>
+  <hr>
+  <div>
     <br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cej3030"/>
+  </div>
+  <br>
+  <br>
+  <hr>
+  <br>
+  <div>
+    <br>
+    <p> 📝 </p>
+    <p> 🖊️ JNU graduation </p>
+    <p> 🖊️ SSAFY, SSAFYcial 12th </p>
   </div>
   
 </div>
