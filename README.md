@@ -35,6 +35,8 @@
     <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     <br>
     <br>
+    <br>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cej3030"/>
   </div>
   
 </div>
