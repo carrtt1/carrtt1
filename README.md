@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/JPA-F3702A?style=for-the-badge&logo=jpa&logoColor=white"/>
     <br>
     <Br>
     <p> 📁 </p>
