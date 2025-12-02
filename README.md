@@ -1,6 +1,6 @@
-<div align="center">
-  <p> 📁 </p>
-  <div>
+<div>
+  <p align="center"> 📁 </p>
+  <div align="center">
     <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -38,7 +38,7 @@
     <br>
   </div>
   <hr>
-  <div>
+  <div align="center">
     <br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cej3030"/>
   </div>
@@ -48,9 +48,19 @@
   <br>
   <div>
     <br>
-    <p> 📝 </p>
+    <p align="center"> 🎓 </p>
     <p> 🖊️ JNU graduation </p>
-    <p> 🖊️ SSAFY, SSAFYcial 12th </p>
+    <p> - 멀티미디어전공 (게임 이론/기획, 멀티미디어개론, 자료구조 등 학습) </p>
+    <p> 🖊️ 삼성 청년 소프트웨어 아카데미 (SSAFY) </p>
+    <p> - SSAFYcial 기자단 활동과 SSAFY 공식 홍보단 활동 </p>
+    <p> - 프로젝트 우수상 수상, 내부 자율주행 대회(싸피레이스) 2위 수상 </p>
+    <p> - Python, Django, Vue, 알고리즘 등 교육</p>
+  </div>
+  <div align="center">
+    <p> 📝 </p>
+    <p> SQLD </p>
+    <p> 정보처리기사 필기 </p>
+    <p> 워드 프로세서 3급 </p>
   </div>
   
 </div>
